@@ -1,5 +1,14 @@
 # OpenAI-Game (09/12/2022)
+
 Game made using OpenAI
+
+## Usage
+Prerequisite: Make sure to have Python and neccessary modules installed  
+1. Download main.py  
+2. Open CMD in directory and run following command  
+~~~
+python main.py 
+~~~
 ## Conversation transcript
 
 User: can you code a version of pokemon with anime characters as pokemons in python with a gui?
