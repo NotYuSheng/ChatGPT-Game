@@ -275,6 +275,6 @@ class Pokemon(QWidget):
         grid.addWidget(self.
 ~~~
 
------
+---
 OpenAI got stuck here and the conversation ends  
 Since OpenAI is unable to carry on from previous conversations and each instance will generate a unique conversation, the program ends here
