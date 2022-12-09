@@ -2,7 +2,8 @@ import sys
 
 from PyQt5.QtCore import QTimer
 from PyQt5.QtGui import QMovie
-from PyQt5.QtWidgets import QApplication, QWidget, QGridLayout, QLabel, QPushButton, QMessageBox
+from PyQt5.QtWidgets import QApplication, QWidget, QGridLayout, QLabel, QPushButton
+from PyQt5.QtWidgets import QMessageBox # Written by user
 
 
 class Pokemon(QWidget):
@@ -104,8 +105,6 @@ class Pokemon(QWidget):
 if __name__ == "__main__":
     app = QApplication(sys.argv)
     game = Pokemon()
-    game.start_ai()
-    game.show()
-    app.exec()
-
-
+    game.start_ai() # Written by user
+    game.show() # Corrected by user
+    app.exec() # Written by user
