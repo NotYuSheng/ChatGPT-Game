@@ -1,4 +1,4 @@
-# OpenAI-Game
+# OpenAI-Game (09/12/2022)
 Game made using OpenAI
 ## Conversation transcript
 
