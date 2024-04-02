@@ -1,6 +1,6 @@
-# OpenAI-Game (09/12/2022)
+# ChatGPT-Game (09/12/2022)
 
-Game made using OpenAI
+Game made using ChatGPT
 
 ## Usage
 Prerequisite: Make sure to have Python and neccessary modules installed  
