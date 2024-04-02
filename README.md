@@ -4,6 +4,8 @@ Upon its release on 30 November 2022, speculation begun on whether ChatGPT would
 
 This is an experiment to understand the capabilities of ChatGPT in creating a custom Python based game.
 
+The resulting game created is contained in `main.py`.
+
 ## Usage
 Prerequisite: Make sure to have Python and neccessary modules installed  
 1. Download main.py  
