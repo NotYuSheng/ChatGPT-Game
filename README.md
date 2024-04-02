@@ -1,6 +1,8 @@
 # ChatGPT-Game (09/12/2022)
 
-Game made using ChatGPT
+Upon its release on 30 November 2022, speculation begun on whether ChatGPT would be capable of replacing the role of programmers in the workforce. 
+
+This is an experiment to understand the capabilities of ChatGPT in creating a custom Python based game.
 
 ## Usage
 Prerequisite: Make sure to have Python and neccessary modules installed  
